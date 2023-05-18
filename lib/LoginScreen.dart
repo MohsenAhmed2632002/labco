@@ -82,7 +82,7 @@ class _LoginScreenState extends State<LoginScreen> {
                 style: TextStyle(),
               ),
               Icon(
-                Icons.not_started_sharp,
+                Icons.exit_to_app,
               ),
             ],
           ),
